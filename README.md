@@ -4,3 +4,8 @@
   </a>
 </div>  
 Meu website: https://portfolioyurilemos.my.canva.site/
+
+Estrutura do repositorio  
+
+/academicos -> Projetos academicos
+/pessoal -> Projetos  pessoais
